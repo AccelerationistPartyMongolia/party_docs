@@ -25,6 +25,7 @@ Our policies include:
 21. Legalizing all forms of gambling, except e-gaming loot boxes.
 22. Decriminalizing sex work and providing state support in facilitating a living outside it for sex workers (prostitutes, exotic dancers, porn actors, etc.).
 23. Allowing more countries to visit Mongolia visa-free to stimulate tourism.
+24. Pushing for the safe and controllable application of AI services as a strategic industry, and monitoring its evolution over the longer term to gain a better understanding of the ethical concerns surrounding AI and other transformative technologies.
 
 ## MEDIUM-TERM — Policies that may require a greater degree of investment in time, money and planning to implement. Expected to take about 3–8 years.
 
@@ -36,25 +37,29 @@ Our policies include:
 6. Establishment of a collection of internet classes in Mongolian for adults with language barriers seeking to learn coding, Microsoft Office, Power BI, VBA macros, and other in-demand skills.
 7. Subsidization and preservation for all forms of nomadic arts and culture (even non-Mongolian nomadic cultures) to preserve the culture of the nomadic ways of life of even other nations that give it no priority.
 8. Ensuring affordable housing for all citizens through government investment, incentives for developers or dirigiste policies to accelerate civilian urbanization and reduce the slum districts.
-9. Mass subsidization of public transport and high-speed rail, national priority for a subway or light rail system in Ulaanbaatar to reduce commute times.
-10. Promotion of greater urban immigration to Ulaanbaatar, Darkhan and Erdenet to consolidate the proximity of expertises that enable greater cross-pollination of different business interests.
-11. Granting greater political autonomy to the City of Ulaanbaatar to foster its independent economic development.
-12. Banning the usage of plastic bags and straws.
-13. Encouraging the development and use of renewable energy sources, such as solar, wind, and hydro power, along with sustainable living methods such as vertical farming and waste reduction.
-14. We’re ready to embrace the power of the atom and join the nuclear energy club. But don’t worry, safety comes first.
-15. Replicating the “Double Irish” or the “Dutch Sandwich” base erosion and profit shifting tax tools within the country to allow for us to serve as a tax haven for Chinese, Russian, Central Asian, South Korean and Japanese multinational companies.
-16. Dirigisme policy for strategically significant value-adding industries or inelastic markets whose main purpose is enabling other markets to flourish.
-17. Establishing a 36-hour four-day workweek, with the possibility for 35-hour five day workweeks for businesses deemed required to do so.
-18. Passing the Marcora Law that allows employees to cash-in all of their accumulated unemployment benefits to capitalize a buyout for their failing businesses and establish a worker cooperative.
+9. Providing favorable loans and subsidies for convering high-rise buildings both current and under construction into mixed-use high-rises that accomodate for both housing and office in synergy with the winterly remote work policy to reverse the business decline of reduced office rents and the reduction of activity in proximate small businesses while further increasing the housing supply.
+10. Implementing green energy-tech based housing for ger district places near the city center soon to be redeveloped.
+11. Mass subsidization of public transport and high-speed rail, national priority for a subway or light rail system in Ulaanbaatar to reduce commute times.
+12. Promotion of greater urban immigration to Ulaanbaatar, Darkhan and Erdenet to consolidate the proximity of expertises that enable greater cross-pollination of different business interests.
+13. Reinvesting in and developing Buyant-Ukhaa Airport so it can be reopened for transit flights, later transfering its sovereignty to upcoming satellite cities so both airports can have consistent operation policies.
+14. Granting greater political autonomy to the City of Ulaanbaatar to foster its independent economic development.
+15. Banning the usage of plastic bags and straws.
+16. Encouraging the development and use of renewable energy sources, such as solar, wind, and hydro power, along with sustainable living methods such as vertical farming and waste reduction.
+17. We’re ready to embrace the power of the atom and join the nuclear energy club. But don’t worry, safety comes first.
+18. Replicating the “Double Irish” or the “Dutch Sandwich” base erosion and profit shifting tax tools within the country to allow for us to serve as a tax haven for Chinese, Russian, Central Asian, South Korean and Japanese multinational companies.
+19. Dirigisme policy for strategically significant value-adding industries or inelastic markets whose main purpose is enabling other markets to flourish.
+20. Establishing a 36-hour four-day workweek, with the possibility for 35-hour five day workweeks for businesses deemed required to do so.
+21. Passing the Marcora Law that allows employees to cash-in all of their accumulated unemployment benefits to capitalize a buyout for their failing businesses and establish a worker cooperative.
 
 ## LONG-TERM — Policies that will require amending the constitution, or will take an extremely long time to be fully realized. Expected to take longer than 8 years.
 
 1. Reforming the national academic sector to make academic careers more viable, while proliferating cross-university expertise pollination and establishing a collaboration sector with the state that allows academia to provide cross-discipline technocratic counsel to the state.
 2. Amending the constitution to do away with constitutional roadblocks towards marriage equality and remove barriers to adoption for same-sex couples.
 3. Investigating the possibility of and acting on a project to attract South Korean and Japanese manufacturing firms onto a Western Mongolian special economic zone where Central Asian migrants with work visas are to be employed for blue-collar work with competitive remittable wages while Mongolians are stipulated to be hired for white-collar work such as engineering, administration and middle management to learn from South Korean and Japanese business practices and industrial know-how up close.
-4. Establishment of a universal basic income to either keep the populace producing or spending once the nation has achieved sufficient economic capabilities to support it.
-5. State support for the proliferation of a Tönniesian Gesellschaft society over the currently dominant Tönniesian Gemeinschaft culture in order to fight nepotism and boost individualism.
-6. Within the scope of the UBI program and the Marcora Law, establish a stock market exclusively for cooperatives to allow for a pluralized form of capital access. We recognize that current economic systems often perpetuate inequalities, so we propose that individuals should be able to buy shares in cooperatives through monthly stock purchase plans exclusively within the UBI program. By limiting stock purchases to the amount given monthly through UBI, we can protect the democratic procedure of worker cooperatives from wealthy stockholders and allow the possibility for you to directly assist your favorite small businesses.
+4. Banning all usages of coal except for steel and energy production.
+5. Establishment of a universal basic income to either keep the populace producing or spending once the nation has achieved sufficient economic capabilities to support it.
+6. State support for the proliferation of a Tönniesian Gesellschaft society over the currently dominant Tönniesian Gemeinschaft culture in order to fight nepotism and boost individualism.
+7. Within the scope of the UBI program and the Marcora Law, establish a stock market exclusively for cooperatives to allow for a pluralized form of capital access. We recognize that current economic systems often perpetuate inequalities, so we propose that individuals should be able to buy shares in cooperatives through monthly stock purchase plans exclusively within the UBI program. By limiting stock purchases to the amount given monthly through UBI, we can protect the democratic procedure of worker cooperatives from wealthy stockholders and allow the possibility for you to directly assist your favorite small businesses.
 
 ## MEME-TERM — Policies that are memes. Maybe we won’t pass it. OR MAYBE WE WILL.
 
@@ -75,3 +80,10 @@ Our policies include:
 2. Recognizing India as a global Great Power and Asia’s counterpoint to China, participating in India’s “Necklace of Diamonds” strategy and adjusting our diplomacy in accordance to it.
 3. Commitment to party finance exclusively through crowdfunding, while either rejecting or disclosing donations from large corporations or international political interest groups.
 4. In order to further promote greater political pluralism, we will give support and platform to opposition parties that hate us and have democratic ideals not in line with ours.
+
+## UNDER-DISCUSSION — Policy ideas currently under discussion that we are welcome to new ideas for.
+
+1. Phenomenon-based learning policy.
+2. Mixed-use high-rise conversion policy.
+3. Khovd industrialization policy.
+4. Volunteer civil service reform policy.
