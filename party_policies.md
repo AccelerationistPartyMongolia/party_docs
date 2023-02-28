@@ -43,13 +43,14 @@ Our policies include:
 12. Promotion of greater urban immigration to Ulaanbaatar, Darkhan and Erdenet to consolidate the proximity of expertises that enable greater cross-pollination of different business interests.
 13. Reinvesting in and developing Buyant-Ukhaa Airport so it can be reopened for transit flights, later transfering its sovereignty to upcoming satellite cities so both airports can have consistent operation policies.
 14. Granting greater political autonomy to the City of Ulaanbaatar to foster its independent economic development.
-15. Banning the usage of plastic bags and straws.
-16. Encouraging the development and use of renewable energy sources, such as solar, wind, and hydro power, along with sustainable living methods such as vertical farming and waste reduction.
-17. We’re ready to embrace the power of the atom and join the nuclear energy club. But don’t worry, safety comes first.
-18. Replicating the “Double Irish” or the “Dutch Sandwich” base erosion and profit shifting tax tools within the country to allow for us to serve as a tax haven for Chinese, Russian, Central Asian, South Korean and Japanese multinational companies.
-19. Dirigisme policy for strategically significant value-adding industries or inelastic markets whose main purpose is enabling other markets to flourish.
-20. Establishing a 36-hour four-day workweek, with the possibility for 35-hour five day workweeks for businesses deemed required to do so.
-21. Passing the Marcora Law that allows employees to cash-in all of their accumulated unemployment benefits to capitalize a buyout for their failing businesses and establish a worker cooperative.
+16. Banning the usage of plastic bags and straws.
+17. Encouraging the development and use of renewable energy sources, such as solar, wind, and hydro power, along with sustainable living methods such as vertical farming and waste reduction.
+18. We’re ready to embrace the power of the atom and join the nuclear energy club. But don’t worry, safety comes first.
+19. Replicating the “Double Irish” or the “Dutch Sandwich” base erosion and profit shifting tax tools within the country to allow for us to serve as a tax haven for Chinese, Russian, Central Asian, South Korean and Japanese multinational companies.
+20. Dirigisme policy for strategically significant value-adding industries or inelastic markets whose main purpose is enabling other markets to flourish.
+21. Reforming prisoner accomodations to focus more towards rehabilitation and skill development than punishment.
+22. Establishing a 36-hour four-day workweek, with the possibility for 35-hour five day workweeks for businesses deemed required to do so.
+23. Passing the Marcora Law that allows employees to cash-in all of their accumulated unemployment benefits to capitalize a buyout for their failing businesses and establish a worker cooperative.
 
 ## LONG-TERM — Policies that will require amending the constitution, or will take an extremely long time to be fully realized. Expected to take longer than 8 years.
 
