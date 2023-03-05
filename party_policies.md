@@ -15,17 +15,18 @@ Our policies include:
 11. Including free eyeglasses within our universal health insurance for those who have demonstrated a need for vision correction.
 12. Establishing a right to euthanasia. If a citizen decides to commit suicide by their own choices, they will be allowed to do it in a safe environment where their healthy internal organs would be donated to the hospitals.
 13. Mandatory remote work for as many office workers in Ulaanbaatar as possible from October to March in order to reduce traffic.
-14. Having the government and all applicable businesses be obligated to provide year-round remote work opportunities for those with disabilities and sole guardians of a child/children.
-15. Establishing a secure and fraud-proof internet voting system for municipal and national elections.
-16. Reforming of copyright and patent laws that allow for greater open-source production and commons-based peer production.
-17. Institutionalization of open access principles and practices through which research outputs are distributed online, free of access charges or other barriers.
-18. Restricting the mining of cryptocurrencies except for those using proof-of-stake blockchain protocols, while introducing a small cryptocurrency tax.
-19. Converting the amount of assets stuck in U-Money into sound money-based guaranteed bonds as a short-term way to access new capital.
-20. Recognizing e-sports as a legitimate form of competitive entertainment and investing in its infrastructure, training resources, technologies such as virtual reality and augmented reality, and the development of e-sports communities.
-21. Legalizing all forms of gambling, except e-gaming loot boxes.
-22. Decriminalizing sex work and providing state support in facilitating a living outside it for sex workers (prostitutes, exotic dancers, porn actors, etc.).
-23. Allowing more countries to visit Mongolia visa-free to stimulate tourism.
-24. Pushing for the safe and controllable application of AI services as a strategic industry, and monitoring its evolution over the longer term to gain a better understanding of the ethical concerns surrounding AI and other transformative technologies.
+14. Mandating flexible workhours arrangement for all office workers.
+15. Having the government and all applicable businesses be obligated to provide year-round remote work opportunities for those with disabilities and sole guardians of a child/children.
+16. Establishing a secure and fraud-proof internet voting system for municipal and national elections.
+17. Reforming of copyright and patent laws that allow for greater open-source production and commons-based peer production.
+18. Institutionalization of open access principles and practices through which research outputs are distributed online, free of access charges or other barriers.
+19. Restricting the mining of cryptocurrencies except for those using proof-of-stake blockchain protocols, while introducing a small cryptocurrency tax.
+20. Converting the amount of assets stuck in U-Money into sound money-based guaranteed bonds as a short-term way to access new capital.
+21. Recognizing e-sports as a legitimate form of competitive entertainment and investing in its infrastructure, training resources, technologies such as virtual reality and augmented reality, and the development of e-sports communities.
+22. Legalizing all forms of gambling, except e-gaming loot boxes.
+23. Decriminalizing sex work and providing state support in facilitating a living outside it for sex workers (prostitutes, exotic dancers, porn actors, etc.).
+24. Allowing more countries to visit Mongolia visa-free to stimulate tourism.
+25. Pushing for the safe and controllable application of AI services as a strategic industry, and monitoring its evolution over the longer term to gain a better understanding of the ethical concerns surrounding AI and other transformative technologies.
 
 ## MEDIUM-TERM — Policies that may require a greater degree of investment in time, money and planning to implement. Expected to take about 3–8 years.
 
