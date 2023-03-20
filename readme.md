@@ -2,4 +2,4 @@ The Accelerationist Party believes in this fundamental concept: Mongolia is a na
 
 The Accelerationist Party follows left accelerationism as its ideology of inspiration as posited by academics Nick Srnicek, Alex Williams and Mark Fisher; and thus does not identify with far-right extremism and actively condemns the far-right.
 
-Long Live the Pirate Republic.
+Дэлхийгээс хоцрох цаг алга.
