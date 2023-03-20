@@ -35,23 +35,25 @@ Our policies include:
 3. Pro-natalist subsidizations, tax exemptions, technological assistance (in vitro fertilization, etc.) and free parenting training for new families.
 4. Establishing medical facilities for access to gender-affirming surgeries and hormone replacement therapy.
 5. Making state-owned universities tuition free while greatly increasing their admittance standards to provide a more meritocratic education system.
-6. Establishment of a collection of internet classes in Mongolian for adults with language barriers seeking to learn coding, Microsoft Office, Power BI, VBA macros, and other in-demand skills.
-7. Subsidization and preservation for all forms of nomadic arts and culture (even non-Mongolian nomadic cultures) to preserve the culture of the nomadic ways of life of even other nations that give it no priority.
-8. Ensuring affordable housing for all citizens through government investment, incentives for developers or dirigiste policies to accelerate civilian urbanization and reduce the slum districts.
-9. Providing favorable loans and subsidies for converting high-rise buildings both current and under construction into mixed-use high-rises that accommodate for both housing and office in synergy with the winterly remote work policy to reverse the business decline of reduced office rents and the reduction of activity in proximate small businesses while further increasing the housing supply.
-10. Implementing green energy-tech based housing for ger district places near the city center soon to be redeveloped.
-11. Mass subsidization of public transport and high-speed rail, national priority for a subway or light rail system in Ulaanbaatar to reduce commute times.
-12. Promotion of greater urban immigration to Ulaanbaatar, Darkhan and Erdenet to consolidate the proximity of expertises that enable greater cross-pollination of different business interests.
-13. Reinvesting in and developing Buyant-Ukhaa Airport so it can be reopened for transit flights, later transfering its sovereignty to upcoming satellite cities so both airports can have consistent operation policies.
-14. Granting greater political autonomy to the City of Ulaanbaatar to foster its independent economic development.
-16. Banning the usage of plastic bags and straws.
-17. Encouraging the development and use of renewable energy sources, such as solar, wind, and hydro power, along with sustainable living methods such as vertical farming and waste reduction.
-18. We’re ready to embrace the power of the atom and join the nuclear energy club. But don’t worry, safety comes first.
-19. Replicating the “Double Irish” or the “Dutch Sandwich” base erosion and profit shifting tax tools within the country to allow for us to serve as a tax haven for Chinese, Russian, Central Asian, South Korean and Japanese multinational companies.
-20. Dirigisme policy for strategically significant value-adding industries or inelastic markets whose main purpose is enabling other markets to flourish.
-21. Reforming prisoner accomodations to focus more towards rehabilitation and skill development than punishment.
-22. Establishing a 36-hour four-day workweek, with the possibility for 35-hour five day workweeks for businesses deemed required to do so.
-23. Passing the Marcora Law that allows employees to cash-in all of their accumulated unemployment benefits to capitalize a buyout for their failing businesses and establish a worker cooperative.
+6. Reorganization of primary education more towards phenomenon-based learning to better prepare young people for skills actively in demand in the 21st century.
+7. Establishment of a collection of internet classes in Mongolian for adults with language barriers seeking to learn coding, Microsoft Office, Power BI, VBA macros, and other in-demand skills.
+8. Subsidization and preservation for all forms of nomadic arts and culture (even non-Mongolian nomadic cultures) to preserve the culture of the nomadic ways of life of even other nations that give it no priority.
+9. Ensuring affordable housing for all citizens through government investment, incentives for developers or dirigiste policies to accelerate civilian urbanization and reduce the slum districts.
+10. Providing favorable loans and subsidies for converting high-rise buildings both current and under construction into mixed-use high-rises that accommodate for both housing and office in synergy with the winterly remote work policy to reverse the business decline of reduced office rents and the reduction of activity in proximate small businesses while further increasing the housing supply.
+11. Establishment of a sprawling cultural production focus districts within Ulaanbaatar with state-subsidized fixed affordable rents for office and housing specifically for artists and artisans of all kinds (musicians, painters, animators, 3D/2D artists, handicrafters, writers, choreographers, sculptors, game developers, dramatists, filmmakers, photographers, etc.) to promote artistic cross-pollination of Mongolia’s diverse but disparate art scenes.
+12. Implementing green energy-tech based housing for ger district places near the city center soon to be redeveloped.
+13. Mass subsidization of public transport and high-speed rail, national priority for a subway or light rail system in Ulaanbaatar to reduce commute times.
+14. Promotion of greater urban immigration to Ulaanbaatar, Darkhan and Erdenet to consolidate the proximity of expertises that enable greater cross-pollination of different business interests.
+15. Reinvesting in and developing Buyant-Ukhaa Airport so it can be reopened for transit flights, later transfering its sovereignty to upcoming satellite cities so both airports can have consistent operation policies.
+16. Granting greater political autonomy to the City of Ulaanbaatar to foster its independent economic development.
+17. Banning the usage of plastic bags and straws.
+18. Encouraging the development and use of renewable energy sources, such as solar, wind, and hydro power, along with sustainable living methods such as vertical farming and waste reduction.
+19. We’re ready to embrace the power of the atom and join the nuclear energy club. But don’t worry, safety comes first.
+20. Replicating the “Double Irish” or the “Dutch Sandwich” base erosion and profit shifting tax tools within the country to allow for us to serve as a tax haven for Chinese, Russian, Central Asian, South Korean and Japanese multinational companies.
+21. Dirigisme policy for strategically significant value-adding industries or inelastic markets whose main purpose is enabling other markets to flourish.
+22. Reforming prisoner accomodations to focus more towards rehabilitation and skill development than punishment.
+23. Establishing a 36-hour four-day workweek, with the possibility for 35-hour five day workweeks for businesses deemed required to do so.
+24. Passing the Marcora Law that allows employees to cash-in all of their accumulated unemployment benefits to capitalize a buyout for their failing businesses and establish a worker cooperative.
 
 ## LONG-TERM — Policies that will require amending the constitution, or will take an extremely long time to be fully realized. Expected to take longer than 8 years.
 
@@ -62,6 +64,7 @@ Our policies include:
 5. Establishment of a universal basic income to either keep the populace producing or spending once the nation has achieved sufficient economic capabilities to support it.
 6. State support for the proliferation of a Tönniesian Gesellschaft society over the currently dominant Tönniesian Gemeinschaft culture in order to fight nepotism and boost individualism.
 7. Within the scope of the UBI program and the Marcora Law, establish a stock market exclusively for cooperatives to allow for a pluralized form of capital access. We recognize that current economic systems often perpetuate inequalities, so we propose that individuals should be able to buy shares in cooperatives through monthly stock purchase plans exclusively within the UBI program. By limiting stock purchases to the amount given monthly through UBI, we can protect the democratic procedure of worker cooperatives from wealthy stockholders and allow the possibility for you to directly assist your favorite small businesses.
+8. The establishment of a high money velocity artelist economy, written in detail here. https://medium.com/socraftes/artelism-the-left-wing-of-the-22nd-century-91f1d88d859
 
 ## MEME-TERM — Policies that are memes. Maybe we won’t pass it. OR MAYBE WE WILL.
 
