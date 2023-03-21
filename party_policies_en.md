@@ -1,3 +1,5 @@
+# Policies of Accelerationist Party of Mongolia 
+
 Our policies include:
 
 ## SHORT-TERM — Policies that can be passed instantly by a parliament majority with little to no budget fluctuations. Expected to be accomplished within 1–2 years.
