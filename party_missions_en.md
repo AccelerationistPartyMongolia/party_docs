@@ -1,3 +1,5 @@
+# Missions of Accelerationist Party of Mongolia 
+
 ## Our missions include:
 1. Holding the line of freedom and democracy to resist the allure of autocracies. For no dictatorship lasted a hundred years, while centuries-old democracies are aplenty. As Mongolians, we choose the latter.
 2. Expanding Mongolia’s Overton window to include ideas already in circulation in developed countries, but has found little mention or audience within Mongolia to expand the political imagination of the people.
