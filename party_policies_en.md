@@ -6,56 +6,57 @@ Our policies include:
 
 1. Protecting the fundamental rights of citizens, including freedom of expression, communication, education, and privacy that protect the free flow of ideas, knowledge and culture. Starting with eliminating all forms of internet and media censorship.
 2. Guaranteeing the right to assemble and protest without the need for prior notification to the state.
-3. Prohibiting the use of crowd control equipment, such as water cannons, tear gas, and rubber bullets by police.
+3. Prohibiting the use of crowd control equipment such as water cannons, tear gas, and rubber bullets by law enforcement.
 4. Legalization and taxation of marijuana and psilocybin for recreational and medicinal uses.
 5. Supporting the proliferation of drinking beer or smoking marijuana over drinking vodka to promote a healthier recreational culture.
-6. Standardization of the drinking, driving, smoking, citizen ID card-holding, voting, military service, and consent ages to 18. Once a citizen reaches the age of 18, all of their rights shall be unlocked to them.
+6. Standardization of the drinking, driving, smoking, citizen ID cardholding, voting, military service, and consent ages to 18. Once a citizen reaches the age of 18, all of their rights shall be unlocked to them.
 7. Encouraging responsible financial planning and financial literacy through new primary education classes.
-8. In the short term, making tuition free for all universities in Darkhan and Erdenet to promote greater migration to those cities.
-9. Abolishing the mandatory conscription and establish a volunteer military who will have the money saved from the now defunct mandatory conscription budget redistributed to them through higher salaries.
-10. Right to return immigration policy for all Mongolic (Buryat, Kalmyk, Inner Mongolian, Daur, etc.) and Siberian Turkic (Tuvan, Khakas, Altai, Yakut, etc.) peoples.
-11. Including free eyeglasses within our universal health insurance for those who have demonstrated a need for vision correction.
+8. Making tuition free for all universities in Darkhan and Erdenet under a temporary grace regime to promote greater migration to those cities.
+9. Abolishing the mandatory conscription and establishing a volunteer military who will have the money saved from the now defunct mandatory conscription budget redistributed to them through higher salaries.
+10. Right to return immigration policy for not only all Mongolic (Buryat, Kalmyk, Inner Mongolian, Daur, etc.) peoples, but for Siberian Turkic (Tuvan, Khakas, Altai, Yakut, etc.) peoples as well.
+11. Including free eyeglasses within the current universal health insurance for those who have demonstrated a need for vision correction.
 12. Establishing a right to euthanasia. If a citizen decides to commit suicide by their own choices, they will be allowed to do it in a safe environment where their healthy internal organs would be donated to the hospitals.
-13. Mandatory remote work for as many office workers in Ulaanbaatar as possible from October to March in order to reduce traffic.
-14. Mandating flexible workhours arrangement for all office workers.
+13. Mandatory remote work for 90% of all office workers in Ulaanbaatar from October to March in order to reduce winter traffic.
+14. Mandating flexible workhours arrangements for all office workers.
 15. Having the government and all applicable businesses be obligated to provide year-round remote work opportunities for those with disabilities and sole guardians of a child/children.
 16. Establishing a secure and fraud-proof internet voting system for municipal and national elections.
 17. Reforming of copyright and patent laws that allow for greater open-source production and commons-based peer production.
 18. Institutionalization of open access principles and practices through which research outputs are distributed online, free of access charges or other barriers.
-19. Restricting the mining of cryptocurrencies except for those using proof-of-stake blockchain protocols, while introducing a small cryptocurrency tax.
+19. Restricting the mining of cryptocurrencies except for those using proof-of-stake blockchain protocols, while introducing a small cryptocurrency tax for them.
 20. Converting the amount of assets stuck in U-Money into sound money-based guaranteed bonds as a short-term way to access new capital.
-21. Recognizing e-sports as a legitimate form of competitive entertainment and investing in its infrastructure, training resources, technologies such as virtual reality and augmented reality, and the development of e-sports communities.
+21. Recognizing e-sports as a legitimate form of competitive entertainment and investing in its infrastructure, training resources, technologies such as virtual reality and augmented reality, and the development of its communities.
 22. Legalizing all forms of gambling, except e-gaming loot boxes.
-23. Decriminalizing sex work and providing state support in facilitating a living outside it for sex workers (prostitutes, exotic dancers, porn actors, etc.).
-24. Allowing more countries to visit Mongolia visa-free to stimulate tourism.
-25. Pushing for the safe and controllable application of AI services as a strategic industry, and monitoring its evolution over the longer term to gain a better understanding of the ethical concerns surrounding AI and other transformative technologies.
+23. Decriminalizing sex work (prostitution, exotic dancing, adult film production, etc.) and providing state subsidization for sex work labor unions aimed at facilitating better working conditions and providing greater opportunities to purse aliving outside sex work.
+24. Allowing even more countries to visit Mongolia visa-free to stimulate tourism.
+25. Pushing for the safe and controllable application of AI services as a strategic industry and monitoring its evolution over the longer term to gain a better understanding of the ethical concerns surrounding AI and other transformative technologies.
 
 ## MEDIUM-TERM — Policies that may require a greater degree of investment in time, money and planning to implement. Expected to take about 3–8 years.
 
 1. Implementing tax reform in urban areas, incorporating principles of the Georgist tax system, with a focus on land value tax and reduced taxes on other items.
 2. Providing universal and unconditional access to quality healthcare for all citizens, with a special focus on access to mental health services and resources, including therapy and counseling.
 3. Pro-natalist subsidizations, tax exemptions, technological assistance (in vitro fertilization, etc.) and free parenting training for new families.
-4. Establishing medical facilities for access to gender-affirming surgeries and hormone replacement therapy.
+4. Establishing medical facilities for access to gender-affirming surgeries and hormone replacement therapy and providing unconditional access to gender-affirming care for transgender people.
 5. Making state-owned universities tuition free while greatly increasing their admittance standards to provide a more meritocratic education system.
 6. Reorganization of primary education more towards phenomenon-based learning to better prepare young people for skills actively in demand in the 21st century.
-7. Establishment of a collection of internet classes in Mongolian for adults with language barriers seeking to learn coding, Microsoft Office, Power BI, VBA macros, and other in-demand skills.
-8. Subsidization and preservation for all forms of nomadic arts and culture (even non-Mongolian nomadic cultures) to preserve the culture of the nomadic ways of life of even other nations that give it no priority.
-9. Ensuring affordable housing for all citizens through government investment, incentives for developers or dirigiste policies to accelerate civilian urbanization and reduce the slum districts.
-10. Providing favorable loans and subsidies for converting high-rise buildings both current and under construction into mixed-use high-rises that accommodate for both housing and office in synergy with the winterly remote work policy to reverse the business decline of reduced office rents and the reduction of activity in proximate small businesses while further increasing the housing supply.
-11. Establishment of a sprawling cultural production focus districts within Ulaanbaatar with state-subsidized fixed affordable rents for office and housing specifically for artists and artisans of all kinds (musicians, painters, animators, 3D/2D artists, handicrafters, writers, choreographers, sculptors, game developers, dramatists, filmmakers, photographers, etc.) to promote artistic cross-pollination of Mongolia’s diverse but disparate art scenes.
-12. Implementing green energy-tech based housing for ger district places near the city center soon to be redeveloped.
-13. Mass subsidization of public transport and high-speed rail, national priority for a subway or light rail system in Ulaanbaatar to reduce commute times.
-14. Promotion of greater urban immigration to Ulaanbaatar, Darkhan and Erdenet to consolidate the proximity of expertises that enable greater cross-pollination of different business interests.
-15. Reinvesting in and developing Buyant-Ukhaa Airport so it can be reopened for transit flights, later transfering its sovereignty to upcoming satellite cities so both airports can have consistent operation policies.
-16. Granting greater political autonomy to the City of Ulaanbaatar to foster its independent economic development.
-17. Banning the usage of plastic bags and straws.
-18. Encouraging the development and use of renewable energy sources, such as solar, wind, and hydro power, along with sustainable living methods such as vertical farming and waste reduction.
-19. We’re ready to embrace the power of the atom and join the nuclear energy club. But don’t worry, safety comes first.
-20. Replicating the “Double Irish” or the “Dutch Sandwich” base erosion and profit shifting tax tools within the country to allow for us to serve as a tax haven for Chinese, Russian, Central Asian, South Korean and Japanese multinational companies.
-21. Dirigisme policy for strategically significant value-adding industries or inelastic markets whose main purpose is enabling other markets to flourish.
-22. Reforming prisoner accomodations to focus more towards rehabilitation and skill development than punishment.
-23. Establishing a 36-hour four-day workweek, with the possibility for 35-hour five day workweeks for businesses deemed required to do so.
-24. Passing the Marcora Law that allows employees to cash-in all of their accumulated unemployment benefits to capitalize a buyout for their failing businesses and establish a worker cooperative.
+7. Establishment of a collection of internet classes in Mongolian for adults with language barriers seeking to learn the basics of coding, Microsoft Office, Power BI, VBA macros, and other in-demand skills for free.
+8. Subsidization and preservation of all forms of nomadic arts and culture (even non-Mongolian nomadic cultures) to preserve the culture of the nomadic way of life of even other countries that give it no priority.
+9. Ensuring affordable housing for all citizens through government investment, incentives for developers and dirigiste policies to accelerate civilian urbanization and reduce slum districts.
+10. Jumpstarting a Suburban Revolution to replace the current DIY suburbs of Mongolia with aesthetically and infrastructurally standardized suburbs based on Dutch suburban development practices.
+11. Providing favorable loans and subsidies for converting high-rise buildings both currently existing and under construction into mixed-use high-rises that accommodate for both housing and office in synergy with the winterly remote work policy to reverse the business decline of reduced office rents and the reduction of activity in proximate small businesses while further increasing the housing supply.
+12. Establishment of a sprawling cultural production focus districts within Ulaanbaatar with state-subsidized fixed affordable rents for office and housing specifically for artists and artisans of all kinds (musicians, painters, animators, 3D/2D artists, handicrafters, writers, choreographers, sculptors, game developers, dramatists, filmmakers, photographers, etc.) to promote artistic cross-pollination of Mongolia’s diverse but disparate art scenes.
+13. Implementing green energy-tech based housing for ger district places near the city center soon to be redeveloped.
+14. Mass subsidization of public transport and high-speed rail, making it a national priority to establish a subway or a high-capacity light rail system in Ulaanbaatar to reduce traffic congestion and commute times.
+15. Promotion of greater urban immigration to Ulaanbaatar, Darkhan and Erdenet to consolidate the proximity of expertise that enable greater cross-pollination of different business interests.
+16. Reinvesting in and developing Buyant-Ukhaa Airport so it can be reopened for transit flights, with later plans to transfer its sovereignty to the satellite cities currently under construction, so both airports can have consistent operation policies.
+17. Granting greater political autonomy to the City of Ulaanbaatar to foster its independent economic development.
+18. Banning the usage of plastic bags and straws.
+19. Encouraging the development and use of renewable energy sources, such as solar, wind, and hydro power, along with sustainable living methods such as vertical farming and waste reduction.
+20. We’re ready to embrace the power of the atom and join the nuclear energy club. But don’t worry, safety comes first.
+21. Replicating the “Double Irish” or the “Dutch Sandwich” base erosion and profit shifting tax tools within the country to allow for us to serve as a tax haven for Chinese, Russian, Central Asian, South Korean and Japanese multinational companies.
+22. Dirigisme policy for strategically significant value-adding industries or inelastic markets whose main purpose is enabling other markets to flourish.
+23. Reforming prisoner accommodations to focus more on rehabilitation and skill development than on punishment.
+24. Establishing a 36-hour four-day workweek, with the possibility for 35-hour five day workweeks for businesses deemed required to do so.
+25. Passing the Marcora Law that allows employees to cash-in all of their accumulated but unrealized unemployment benefits to capitalize a buyout for their failing businesses and establish a worker cooperative.
 
 ## LONG-TERM — Policies that will require amending the constitution, or will take an extremely long time to be fully realized. Expected to take longer than 8 years.
 
@@ -64,24 +65,26 @@ Our policies include:
 3. Investigating the possibility of and acting on a project to attract South Korean and Japanese manufacturing firms onto a Western Mongolian special economic zone where Central Asian migrants with work visas are to be employed for blue-collar work with competitive remittable wages while Mongolians are stipulated to be hired for white-collar work such as engineering, administration and middle management to learn from South Korean and Japanese business practices and industrial know-how up close.
 4. Banning all usages of coal except for steel and energy production.
 5. Establishment of a universal basic income to either keep the populace producing or spending once the nation has achieved sufficient economic capabilities to support it.
-6. State support for the proliferation of a Tönniesian Gesellschaft society over the currently dominant Tönniesian Gemeinschaft culture in order to fight nepotism and boost individualism.
-7. Within the scope of the UBI program and the Marcora Law, establish a stock market exclusively for cooperatives to allow for a pluralized form of capital access. We recognize that current economic systems often perpetuate inequalities, so we propose that individuals should be able to buy shares in cooperatives through monthly stock purchase plans exclusively within the UBI program. By limiting stock purchases to the amount given monthly through UBI, we can protect the democratic procedure of worker cooperatives from wealthy stockholders and allow the possibility for you to directly assist your favorite small businesses.
-8. The establishment of a high money velocity artelist economy, written in detail here. https://medium.com/socraftes/artelism-the-left-wing-of-the-22nd-century-91f1d88d859
+6. Realizing the two-home vision for all Mongolian middle-class families where it is to be made financially tenable for every middle-class family to own two homes: one urban and one suburban.
+7. State support for the proliferation of a high-trust Gesellschaft society over the currently dominant low-trust Gemeinschaft culture in order to fight nepotism, boost individualism and develop intertrust between peoples and institutions.
+8. Within the scope of the UBI program and the Marcora Law, establish a stock market exclusively for cooperatives to allow for a pluralized form of capital access. We recognize that current economic systems often perpetuate inequalities, so we propose that individuals should be able to buy shares in cooperatives through monthly stock purchase plans exclusively within the UBI program. By limiting stock purchases to the amount given monthly through UBI, we can protect the democratic procedure of worker cooperatives from wealthy stockholders and allow the possibility for you to directly assist your favorite small businesses.
+9. The establishment of a high money velocity artelist economy, written in detail here. https://medium.com/socraftes/artelism-the-left-wing-of-the-22nd-century-91f1d88d859
 
 ## MEME-TERM — Policies that are memes. Maybe we won’t pass it. OR MAYBE WE WILL.
 
 1. Political asylum for all hackers across the world.
-2. Mongolian programmers to be legally bound to always press Tab instead of double space when making indents.
-3. Tax exemption for people depending on how many torrent files they are seeding.
-4. Always having mist generators around the Parliament Building so the general area around it can look like Silent Hill.
-5. Establishment of Mongolia as an international hub for private military companies and other mercenaries, with options of joining a PMC as a low-rank member being offered for criminals except for those imprisoned for terrorism, treason, Ponzi schemes, match-fixing, and pedophilia.
-6. Every Mongolian Guinness World Record holder to be exempt from all taxes. (In the case of Tommy Tallarico ever attaining Mongolian citizenship, he will be specifically excluded from this tax exemption.)
-7. Supporting the promotion and marketing of anime and K-pop content through public relations and marketing campaigns, as well as by participating in international festivals and events.
-8. Implementing the Emiin Gurvan Naadam. It is still wrestling, archery and horse-racing, but finally women can participate in it as well.
-9. Encouraging the development and use of supernatural abilities and new age religions through religious practices and training, and protecting the rights of individuals with supernatural abilities, such as by prohibiting discrimination and ensuring equal treatment under the law while also regulating the use of supernatural abilities to prevent harm to others and to promote responsible and ethical use.
-10. Cultivating alliances and partners: To further its goals, the regime may seek to form alliances or partnerships with other nations, religious orders (like the Vatican and the Taliban), or other powerful actors (like aliens and Gods).
+2. Political asylum for all rogue AIs across the world.
+3. Mongolian programmers to be legally bound to always press Tab instead of double space when making indents.
+4. Tax exemption for people depending on how many torrent files they are seeding.
+5. Always having mist generators around the Parliament Building so the general area around it can look like Silent Hill.
+6. Establishment of Mongolia as an international hub for private military companies and other mercenaries, with options of joining a PMC as a low-rank member being offered for criminals except for those imprisoned for terrorism, treason, Ponzi schemes, match-fixing, and pedophilia.
+7. Every Mongolian Guinness World Record holder to be exempt from all taxes. (In the case of Tommy Tallarico ever attaining Mongolian citizenship, he will be specifically excluded from this tax exemption.)
+8. Supporting the promotion and marketing of anime and K-pop content through public relations and marketing campaigns, as well as by participating in international festivals and events.
+9. Implementing the Emiin Gurvan Naadam. It is still wrestling, archery and horse-racing, but finally women can participate in it as well.
+10. Encouraging the development and use of supernatural abilities and new age religions through religious practices and training, and protecting the rights of individuals with supernatural abilities, such as by prohibiting discrimination and ensuring equal treatment under the law while also regulating the use of supernatural abilities to prevent harm to others and to promote responsible and ethical use.
+11. Cultivating alliances and partners: To further its goals, the regime may seek to form alliances or partnerships with other nations, religious orders (like the Vatican and the Taliban), or other powerful actors (like aliens and Gods).
 
-## NON-POLICY — Stuff that aren’t exactly policies, but modus operandi. Half-meme, half-serious.
+## NON-POLICY — Stuff that are more modus operandi than policy and law. Half-meme, half-serious.
 
 1. Supporting the membership of a democratic and reformed Russian state in the European Union once Vladimir Putin is inevitably thrown out of office, so Mongolia can finally border the European Union.
 2. Recognizing India as a global Great Power and Asia’s counterpoint to China, participating in India’s “Necklace of Diamonds” strategy and adjusting our diplomacy in accordance to it.
@@ -90,7 +93,4 @@ Our policies include:
 
 ## UNDER-DISCUSSION — Policy ideas currently under discussion that we are welcome to new ideas for.
 
-1. Phenomenon-based learning policy.
-2. Mixed-use high-rise conversion policy.
-3. Khovd industrialization policy.
-4. Volunteer civil service reform policy.
+1. Volunteer civil service reform policy.
